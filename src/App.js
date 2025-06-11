@@ -14,11 +14,9 @@ import AdminPage from './pages/AdminPage';
 import PrivateRoute from './components/PrivateRoute';
 
 
-const basename = '';  // replace with your GitHub repo name
-
 function App() {
   return (
-    <Router basename={basename}>
+    <Router>
       <div className="min-h-screen flex flex-col">
         <Navbar />
         <Routes>
