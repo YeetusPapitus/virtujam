@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/virtujam/static/css/main.2b81b98b.css",
+    "main.js": "/virtujam/static/js/main.0ed143de.js",
+    "static/media/Instagram_icon.png": "/virtujam/static/media/Instagram_icon.daa085d576bc6a7f84ad.png",
+    "static/media/tiktok_logo.png": "/virtujam/static/media/tiktok_logo.dc6369350851af2eea9a.png",
+    "static/media/Facebook_Logo.png": "/virtujam/static/media/Facebook_Logo.dd6bf4210cffeb8cb25c.png",
+    "static/media/Youtube_logo.png": "/virtujam/static/media/Youtube_logo.3334c4a9c9d00ad79bb0.png",
+    "index.html": "/virtujam/index.html",
+    "main.2b81b98b.css.map": "/virtujam/static/css/main.2b81b98b.css.map",
+    "main.0ed143de.js.map": "/virtujam/static/js/main.0ed143de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b81b98b.css",
+    "static/js/main.0ed143de.js"
+  ]
+}
